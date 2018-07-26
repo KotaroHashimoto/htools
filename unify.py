@@ -54,5 +54,3 @@ for f in files:
             
 
     h2f[h] = f
-    fp.close()
-    
